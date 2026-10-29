@@ -1,0 +1,6 @@
+{
+  "name": "FraudShield AI",
+  "description": "AI-Powered Credit Card Fraud Detection & Risk Intelligence Platform. Detect suspicious transactions, calculate explainable risk scores, and simulate threat patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
